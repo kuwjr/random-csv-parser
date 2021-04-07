@@ -4,6 +4,7 @@ This is an answer for a unit test I attempted at an interview to test my knowleg
 
 REQUIREMENTS
 Your task is to:
+  
   ● Parse the data in the CSV
   ● Create a simple command line application (using Node.js) to filter and select a random item
     from the CSV.
